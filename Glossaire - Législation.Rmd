@@ -37,3 +37,29 @@ Doctrine
 
 Parlement du Québec
 : Organisme qui détient le pouvoir législatif dans la province de Québec. Le corps législatif québécois comprend l'***Assemblée nationale*** ainsi qu'un ***lieutenant-gouverneur***.
+
+Sanctionner un loi
+: Confirmer quelque chose, lui apporter une consécration officielle ou quasi officielle.
+
+Injonction
+: Ordonnance de la Cour supérieure qui enjoint une personne, ses représentants ou employés, de ne pas faire ou de cesser de faire un acte déterminé.
+
+Procureur de la Couronne
+: Avocat représentant l'État
+
+Avocat de la défense
+: Avocat représentant l'accusé
+
+Le poursuivant et l'accusé
+: les parties au procès. Lors d'un appel, ceux-ci sont appelés **l'appelant** et **l'intimé**.
+
+Jury
+: Citoyens sélectionnés au hasard à partir de la liste électorale, nommés *jurés*.
+
+
+
+Légiférer (Assamblée-Nationale)
+: Établissement des lois. Édicte des normes sur l'ensemble du territoire québécois, dans les champs de compétence qui lui sont reconnus par la constitution canadienne.
+
+Infractions militaires
+: Désigne les infractions quiconcernent les inconduites disciplinaires plus graves, et toutes les inconduites criminelles du personnel militaire.

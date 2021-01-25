@@ -206,6 +206,8 @@ En théorie, la *Doctrine du précédent* ne s'applique pas, et il n'y a **pas d
 
 Ouvrage et traités sur le droit qui présentent les principes et théories élaborés par des juristes qui visent à expliquer le droit. Elle sert de guide aux praticiens du droit et aux gens d'affaires dans leur interprétation des lois.
 
+\newpage
+
 # Cours 2  La création des lois et l'organisation des tribunaux
 
 ## La création des lois
@@ -286,5 +288,259 @@ Ici, on voit qu'on a une notion de séparation de pouvoir pour éviter les confl
 
 ## Le parlement du Québec
 
-Le Parlement du Québec est l’organisme qui détient le pouvoir législatif dans la province de Québec. Le corps législatif québécois comprend l’***Assemblée nationale*** ainsi qu’un ***lieutenant-gouverneur***
+Le Parlement du Québec est l’organisme qui détient le pouvoir législatif dans la province de Québec. Le corps législatif québécois comprend l’***Assemblée nationale*** ainsi qu’un ***lieutenant-gouverneur***.
+
+Le **lieutenant-gouverneur** :
+
++ Ne participe pas aux délibérations;
++ Sanctionne les lois;
++ Droit théorique de refuser la sanction est désuet;
++ Agit sur l'avis du conseil exécutf pour:
+    + Convoquer, proroger et dissoudre le Parlement (au besoin, lors de changement de pouvoir);
+    + Ratifier les décrets.
+
+L'**Assamblée nationale** :
+
++ 125 députés qui sont élus pour représenter la population;
++ Légifère;
++ Exerce un **contrôle sur le pouvoir exécutif** et **l'administration publique**;
+    + Notamment lors de la période de questions ou les débats (doit dire la vérité);
++ Contrôle parlementaire met en vedette les députés de l'opposition.
+
+## Le pouvoir judiciaire
+
+### Introduction - La complexité du système canadien
+
+Le système juridique canadien est fondé sur une combinaison de deux cultures juridique, la **Common Law** et le **Droit civil**. Le pouvoir judiciare est réparti entre le *fédéral* et le *provincial*.
+
+Le système judiciaire est composé de tribunaux de droit commun, de tribunaux spécialisés et d'autres organismes judiciaires ou quasi-judiciaires (style Cour pour la CNESST, Assurance emploi, régimede rente du Québec, tribunal de l'impôt...).
+
+**4 paliers** de l'appareil judiciaire du Canada :
+
+1) Les cours provinciales (tribunaux inférieurs);
+2) Les cours supérieures provinciales ainsi que la Cour fédérale;
+3) Les cours d'appel provinciales et la Cour d'appel fédérale;
+4) La Cour suprême du Canada.
+
+![](diagrame-juridiction.jpg)
+
+Pourquoi on irait à un tribunal plutôt qu'un autre? Ça dépend **type de recours**, du **domaine du droit** en cause, **montant** en litige, etc.
+
+Certain tribunaux sont dit de **première instance**; on s'y présente pour obtenir un premier jugement :
+
++ Cour municipale;
++ Cour du Québec (Chambre civile, criminelle et pénale, et de la jeunesse);
++ Cour supérieure du Québec;
++ Cour fédérale.
+
+D'autres sont des tribunaux **d'appel**; on s'y présente afin de **contester** un jugement :
+
++ Cour supérieure du Québec;
++ Cour d'appel du Québec;
++ Cour d'appel fédérale;
++ Cour suprême du Canada.
+
+Le système juridique canadien regroupe plusieurs domaines de droit, notamment :
+
++ Le droit criminel;
++ Le droit du travail;
++ Le droit fiscal;
++ Le droit des contrats;
++ La responsabilité extracontractuelle;
++ Le droit administratif;
++ Etc. ...
+
+### Exemples de tribunaux de droit commun
+
+\underline{Cour supérieure du Québec :}
+
+**Caractéristiques :**
+
++ Juges nommés par le fédéral (145 juges);
++ Pouvoir de surveillance sur les tribunaux inférieurs, corps politiques et corporations de la province;
++ Entend, en première instance, toute cause non attribuée à un autre tribunal.
+
+**En matière civile :**
+
++ Affaire de plus de 85 000$;
+    + Causes de faillite, de divorce, tout ce qui concerne le droit de la famille;
++ Actions (recours) collective(f)s;
++ Vérifications de testament;
++ Demandes d'injonction.
+
+**En matière criminelle :**
+
++ Actes criminels graves (meurtres, trahison, tentative de meurtre, tec.);
++ Devant juge **et jury**;
++ Recours en matière de *détention illégale* ou contestation d'un mendat de perquisition.
+
+\underline{Cour d'appel du Québec :}
+
+**Caractéristiques :**
+
++ Plus haut tribunal au Québec pour revoir des jugements;
++ 20ish juges nommés par le fédéral;
++ Siège à Montréal et à Québec seulement;
++ Traite des matières civiles et criminelles;
++ *Principe* : appel **dans les 30 jours du jugement de première instance**, sauf exception (adoption, divorce).
++ Appel "de plein droit" ou "sur permission" ?????? 
+
+**En matière civile :**
+
++ Litiges de 60 000$ ou plus;
++ Jugement qui mettent fin à une instance;
++ Jugements portant sur l'intégrité, l'état ou la capacité des personnes, etc.
+
+**En matière criminelle :**
+
++ Appel de condamnation et/ou de sentence, autant la défense ou demande;
+
+**Fonctionnement :**
+
++ Nombre impair de juges (3 ou 5);
++ Examine les **erreurs de droit** qui auraient été commises en première instance;
++ N'entend **aucun témoin**;
++ Reprend les documents du premier procès et entend les plaidoiries des avocats;
++ Possibilité de faire appel à un jugement de la Cour d'appel **devant la Cour suprême du Canada**.
+
+\underline{Cour suprême du Canada :}
+
+**Caractéristiques :**
+
++ Plus haut tribunal du Canada (dernière instance);
++ 9 Juges (répartis dans les provinces pour avoir un équilibre entre le droit civil et la Common law);
++ Jugements finaux et sans appel;
++ Décisions prises à la **majorité**;
++ La **requête pour permission d'en appeler** est **obligatoire** et est entendue par 3 juges;
+    + évaluent s'il y a suffisament d'intérêt en droit ou si la question en est une d'intérêt national.
+    
+### La Cour du Québec
+
++ 290 juges (nommés par le gouvernement provincial);
++ Tribunal séparé en quatre chambres distinctes:
+    
+**Chambre civile, division ordinaire :**
+
++ Cause de moins de 85 000$;
+    + sauf dans le cas de pension alimentaire -> **Cour supérieure**
++ Causes sur le recouvrement de taxes scolarires ou municipales;
++ Causes d'impôts  et de taxes provinciales
++ **Peut servir de **
+    + *Tribunal d'appel* pour la Régie du logement;
+    + *Le Trbunal admnisitratif* du Québec.
+    
+**Chambre civile, divison des petites créances :**
+
++ Cause de moins de 15 000$;
++ Particulier et personne morale si moins de 10 employés;
++ Peut être pour des raisons fiscales si :
+    + Réduction < 10 000$ de revenu imposable;
+    + TVQ < 3 000$;
+    + Pénalité et intérêt < 1 000 $
++ **PAS DE REPRÉSENTATION PAR AVOCAT**
++ Jugements **finaux** et **sans appel**;
+    + Seul recours : rétraction de jugement (rare)
+    
+**Chambre de la jeunesse :**
+
++ Juridiction conférée par la *Loi sur la protection de la jeunesse*;
+    + Impose à toute personne de **signaler** à la DPJ les cas d'enfants violentés ou abusés;
++ Vise à assurer le développement, protection et sécurtié des jeunes < 18 ans;
++ Compétence en matière d'adoption;
++ Applique aussi la *Loi sur le sustème de justice pénale pour adolescents*.
+
+**Chambre criminelle et pénale :**
+
++ Infractions et crimes **mineurs** commis en vertu du Code criminel;
+    + Vol, voies de fait simples (menaces), conduite d'un véhicule avec interdiction;
++ Tout acte criminel qui n'Est pas du ressort exclusif de la Cour supérieur;
++ Peine d'emprisonnement de **moins de 2 ans**;
++ Autres crimes : compétence partagée avec la Cour supérieure.
++ Si ???
+    + Juge seul = Cour du Québec;
+    + Juge et Jury = Cour supérieure.
+    
+### Les tribunaux administratifs
+
+Les tribunaux administratifs sont crées par un loi particulières. Ils peuvent porter différents noms : tribuna, commissionm régie, office, conseil ou bureau. Ils ont **compétence dans une matière donnée** : on parle du pouvoir "*quasi-juridique*". Exemple : Régie du logement.
+
+Quelques exemples de tribunaux administratifs :
+
+**Au Québec**
+
++ Tribunal des professions;
++ Tribunal administraif du Québec;
++ Tribunal administratif du travail.
+
+**Au fédéral**
+
++ Commission de l'assurance-emploi du Canada;
++ Commission des libérations conditionnelles;
++ Conseil de la radiodiffusion et des télécommunications canadiennes.
+
+Il y a possibilité d'appel devant **d'autres tribunaux judiciaires** lorsque un jugement rendu par les tribunaux quasi-judiciaires ne fait pas l'appel d'un des deux partis.
+
+Les décisions de stribunaux administratifs sont susceptibles de **révision judiciaire** devant la Cour supérieur (**Pouvoir de surveillance** de la Cour supérieur).
+
+### Le droit criminel
+
+Voir le Glossaire pour un peu de terminologie.
+
+En première instance, certaines infractions seront entendues devant la **Cour du Québec** (*chambre criminelle et pénale*, Juge seul). En cas de certaines infractions plus graves, c'est la **Cour supérieur** (Juge **et** Jury).
+
+L'appel d'une décision de *première instance* en droit **criminel** se fera devant la **Cour d'appel**.
+
+L'appel d'une décision de la **Cour d'appel du Québec** en matière criminelle se fera devant la **Cour suprême du Canada**.
+    
+En matière criminelle, le jury est composé de **12 jurés**. Certaines personnes ne peuvent être jurés (Avocats). La Couronne et la défense peuvent refuser des jurés.
+
+Le procureur de la couronne doit prouver la culpabilité de l’accusé **hors de tout doute raisonnable**. Si la défense soulève un **doute raisonnable**, l’accusé est *acquitté*.
+
+**Tribunaux spéciaux :** Cours martiales et Cour d'appel de la cour martiale.
+
++ Assurent la tenue de procès pour des accusations selon lesquelles le personnel militaire aurait commis des infractions militaires. Les cours martiales sont présidées **par des juges militaires**.
+
+## Le droit civil
+
++ Les parties : Le **demandeur** et le **défendeur**;
++ En appel : **l'appelant** et **l'intimé**;
++ Il n'est pas question de *cupabilité*, mais de **responsabilité**;
++ **Litige privé**, où l'État n'intervient pas
++ Le **demandeur** doit prouver que la responsabilité du défendeur **Est plus probable qu'improbable** (50% +1);
+    + Il n'est plus question de *hors de tout doute raisonnable*.
+
+## L'incidence de la Charte canadienne sur le pouvoir judiciaire
+
+La *Charte canadienne* permet aux tribunaux **d'invalider une loi** ou encore, **d'invalider la façon de l'appliquer**. Exemple :
+
++ L’article 11b) de la Charte canadienne prévoit le droit d’être jugé
+dans un délai raisonnable (Arrêt *Jordan*);
++ Arrêt *Lavallée*.
+
+## La procédure civile
+
+Les étapes de la procédure civile au Québec
+
+### La mise en demeure
+
+Lettre que le créancier ou son avocat expédie à son débiteur, qui le somme de remplir ses obligations contractuelles ou extracontractuelles dans un délai précis. Si le défendeur **ne se conforme** pas aux demandes inscrites dans la mise en demeure, le **demandeur pourra intenter une action contre lui.**
+
+### L'action
+
+L'action peut être une requête en injonction ou pour pension alimentaire. L'action débute par une **demande introductive d'instance**.
+
+### La défense
+
+Il s’agit de la version des faits du défendeur et les motifs pour lesquels l’action du demandeur est, à son avis, mal fondée.
+
+### Inscription pour instruction et jugement
+
+Inscription de la cause auprès du maître des rôles. L’inscription signe le début de l’instruction, c’est-à-dire du procès
+
+### Jugement
+
+### Appel du jugement
+
+Dans les 30 jours du jugement, sinon, **exécution du jugement**.
+
 
