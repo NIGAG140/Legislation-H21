@@ -1,0 +1,290 @@
+---
+title: "Résumé notes de cours - Législation"
+author: "Nicolas Gagnon"
+date: "19/01/2021"
+output: pdf_document
+---
+
+# Cours 1 - Le droit, c'est quoi?
+
+Le droit est un ensemble de règles de conduite que les membres d'une société donnée se doivent de suivre et de respecter.
+
+On parlera d'un \underline{système de \textbf{droit mixte}} lorsqu'il y a **coexistence** de **deux cultures juridiques** au sein d'une même société.
+
+Le droit québécois se caractérise par \underline{\textbf{deux spécificités imporantes :}}
+
++ Partage de reponsabilité entre le **Parlement fédéral** et le **Parlement du Québec**;
+    + Ce partage découle de la Constitution du Canada. Chacun des gouvernements est         responsable du droit relativement à ses sphères de compétences (par exemple, même       monnaie au Qc et au Canada).
++ Le droit québécois s'identifie à deux traditions juridiques :
+    + La tradition civiliste
+        + Code civil du Québec
+    + La *Common Law*
+
+Le système juridique québécois est donc d'un système de droit **mixte**
+
+Au Québec, le droit se divise en deux branches :
+
++ ***Le droit privé*** : Entre deux personnes;
+    + Contrat d'assurance, par exemple.
++ ***Le droit public*** : Entre la personne et l'État.
+    + Impôt, SAAQ, CNESST
+    
+## Un peu d'histoire
+
+### 1640 - Coutume de Paris introduite au Canada.
+
+Codifie les relations juridiques entre personnes (mariage, bien, propriétés). Régis sans interruption la Nouvelle-France jusqu'en 1763. La **Coutume de Paris** tient donc luey de *droit civil* et de *droit criminel*.
+
+
+### 1756-1763 - Guerre de sept ans
+
+Capitulation de la Nouvelle-France en **1760**, suit alors l'instoration d'un Régime militaire et l'application des lois anglaises de 1760 à 1763.
+
+### 1763 - Traité de Paris
+
+Viens "concrétiser" la conquête de la Nouvelle-France par l'Angleterre, lorsque le **Traité de Paris** est signé en 1763. 
+
+### 1763 - Proclamation royale de 1763
+
+Création de la *Province of Quebec*, et remplacement des institutions gouvernementales par des institutions anglaises, causant ainsi la disparition dse lois et des coutumes en place.
+
+La relation s'applique autant aux realtions privées et publiques. Pourrait être considérée comme la première constitution du Canada.
+
+Cela à entraîné la protestation de la population encouragée par l'église. D'une part, l'Angleterre, protestantisme, à le contrôle sur les relations entre les personne. D'autre part, l'instauration du *Serment du test* qui avait pour but d'exclure les catholiques de toutes les charges administratives.
+
+### 1776 - Proclamation de l'indépendance des États-Unis
+
+L'Angleterre craint que l'esprit de rébellion ne contamine la "Province of Quebec"
+
+### 1774 - Acte du Québec
+
+Vient **rétablire** les lois et coutumes du Canada (la **Coutume de Paris**) \underline{en matière de droits civiles} (donc, début de deux système de droit, le droit mixte). On conserve le droit anglais *Common Law* en matière de \underline{droit public et criminel}.
+
+Abolition du **Serment du test**. L'anglais et le français deviennent les deux langues officielles. L'Acte de Québec est considéré comme la **deuxième constitution du Canada**. Cela constitue notre ancêtre de droit mixte que l'on a aujourd'hui.
+
+### 1791 - L'Acte constitutionnel
+
+Problématique : L'acte de Québec n'accorde pas suffisament de démocratie au peuple. Vient alors l'**Acte constitutionnel de 1791** (3ème constitution). Cela crée alors le Haut-Canada (Ontario et Ouest Canadien) ainsi que le Bas-Canada (Québec et maritimes).
+
+Première ébauche de démocratie au Canada. Une *Assambée* est élue pour chaque province, mais ils n'ont pas le dernier mot, ce qui rend en fait cette constitution impraticable (le gouverneur général à un droit de véto). La population est coupée de plusieurs éléments du pouvoir :
+
++ Langue;
++ Culture;
++ Gouvernement.
+
+## 1834 - Les 92 résolutions et la Rébellion des Patriotes
+
+L'Assamblée vote les 92 résolutions et y réclame notamment :
+
++ Le contrôle des dépenses publiques;
++ L'élection des membres du Conseil législatif;
++ Les mêmes droits politiques que les Britanniques.
+
+Les 92 résolutions sont ***rejetées par Londres***, ce qui entraîne la \underline{Rébellion des Patriotes au Québec} entre 1837 et 1838.
+
+## 1840 - L'Acte d'Union
+
+Adoptée suite au Rapport Durham, qui a été envoyé spécifiquement pour trouver la forme idéale de gourvernement. L'acte d'Union est considéré comme la 4ème constitution du Canada
+
+Union législative du Haut-Canada et du Bas-Canada pour former un seul gouvernement. Mais il n'y a toujours pas de *gouvernement responsable*.
+
+## 1867 - L'Acte de l'Amérique du Nord Britannique (AANB)
+
+Unification de certaines colonies. Début d'un **véritable** *régime parlementaire* : gouvernement élu et responsable devant la Chambre des communes.
+
+L'AANB détermine les matières sur lesquelles le parlement fédéral et les provinces peuvent légiférer. Il y a donc un certain **partage des compétences**, par l'*Article 91* (Compétence du **fédéral**) et l'*Article 92* (compétence des **provinces**). Lorsqu'une matière n'est pas listée aux articles 91 et 92, cette matière devient de compétence du fédéral (Notion de **pouvoir résiduaire** du fédéral).
+
+### 1931 - Le Statut de Westminster
+
+Met définitivement **fin** à la suprématie législative britannique. Plein souveraineté politique. 
+
+Statut de Westminstre = **Indépendance du Canada**.
+
+Seul lien subsistant avec Londres :
+
++ Droit d'appel au *Conseil privé de Londre*
++ Incapacité juridique d'amander la constitution
+
+\underline{Ajout de **1949**} : Le Canada supprime les appels au Conseil privé en matière pénale dès **1933**, et en matière *civile* en **1949**. Cela vient donc rendre plus importante la **Cours suprême du Canada**, qui devient officiellement le tribunal de **dernière instance du Canada**.
+
+### 1982 - Rapatriement de la constitution
+
+Avant, seul le Parlement britannique avait le droit de modifier la constitution. Avec le Rapatriement, le Canada a donc le pouvoir d'amender la constitution au Canada. La loi de 1982 **ajoute** à la constitution canadienne de 1867 :
+
++ La **Charte canadienne des droits** et libertés;
++ Droits des peuples autochtones au Canada;
++ La péréquation et les inégalités régionales;
++ Les conférences constitutionnelles;
++ La **procédure de modification de la Constitution du Canada**.
+
+### Évolution du droit privé
+Savoir qu'il y a une différence entre un **Code civil** (définition de la personne, ses droits, son patrimoine et son évolution, son transfert), et un **Code de procédure civile**.
+
++ 1867 - *Code de procédure civile*
+    + Ce qui se passe si on a un différent et qu'on doit se présenter devant les tribunaux (règles du jeux pour les avocats genre)
++ 1897 - 1ère refonte du *Code de procédure civile*
++ 1955 - début de la réforme du Code civil
++ 1966 - 2ème refonte du *Code de procédure civile*
++ 1981 - entrée en vigueur de plusieurs articles du nouveau Code civil (droit de la famille)
++ 1994 - Mise en place du **Code civil du Québec**
++ 2003 - 3ème refonte du *Code de procédure civile*
++ 2016 - 4ème refonte du *Code de procédure civile*
+
+### 1994 - Code civil du Québec
+
+Principale loi québécoise régissant le droit civil du Québec.Il traite notamment des
+principales règles touchant les **personnes**, la famille, les successions, la propriété et la **responsabilité civile**.
+
+
+
+## Les lois
+
+Une **loi** est une règle adoptée par la Chambre des communes (fédéral) ou l'Assamblée nationale (Québec). Délimite les droit et les obligations de sindividus, groupements ou établissements.
+
+### La Constitution Canadienne
+
+Loi fondamentale sur laquelle reposent toute les autres lois du Québec et du Canada. Établit les domaines de compétence législative du fédéral et des provinces.
+
+### Code civil du Québec
+
+Prévoit les droits et obligations des citoyens entre eux, de la naissance au décèsé Régit les relations tant personnelles que commerciales, notamment :
+
++ les droits de la personne;
++ les contrats;
++ les modalités de règlement d'une succession;
++ la responsabilité civile.
+
+### Les autres codes
+
+Régis un domaine de droit particulier, par exemple :
+
++ Code criminel;
++ Code procédure civile;
++ Code du travail;
++ Code de la sécurité routière;
++ Code municipal du Québec
+
+### Les lois particulières
+
+Traite d'un secteur précis d'activité des citoyens. Exemples :
+
++ Loi sur les régimes complémentaires de retraite;
++ Loi sur l'assurance maladie.
+
+### Loi cadre
+
+Loi au contenu très général, plus de souplesse dans l'application et adoption plus rapide.
+
+### Les règlements, ordonnances et arrêtés en conseil
+
+Dispositions et règles d'applications des lois cadres. Adoptés par le Conseil des ministres. Facilitent la mise en application de la loi. Exemples :
+
++ Contenu du relevé dans un régime de retraite;
++ Assurance médicament : changer la cotisation.
+
+### Les règlements municipaux
+
+Découlent de l'article 92 de l'AANB. Les provinces ont *délégué* ce pouvoir aux municipalités. Le pouvoir de légiférer par règlements appartient aussi **à certains corps publics**. Par exemple, une **université** à la capacité de créer des réglements.
+
+## La jurisprudence
+
+Façon dont les lois sont interprétées par les tribunaux. Correspond à l'ensemble des jugements rendus par les tribunaux supérieurs, dont les juges s'inspirent pour rendre leur décision dans les affaires qui leur sont soumises.
+
+### La transaction
+
+Un contrat par lequel les parties terminent un procès au moyen de *concessions* ou de *réserves* par l’une ou par les deux parties. La transaction **ne fait pas jurisprudence**
+
+### Provinces de Common Law
+
+Jurisprudence très importante dans la Common law. Le juge s'en remet aux décisions rendues dans des cas semblables. Principe de la **Doctrine du précédent**.
+
+### Province du Québec
+
+En théorie, la *Doctrine du précédent* ne s'applique pas, et il n'y a **pas d'obligation** à cet effet. En pratique, les juges suivent les décisions rendues précidemment, surtout si la décision provient de la **Cour d'appel du Québec** ou de la **Cour suprême du Canada**.
+
+## La doctrine
+
+Ouvrage et traités sur le droit qui présentent les principes et théories élaborés par des juristes qui visent à expliquer le droit. Elle sert de guide aux praticiens du droit et aux gens d'affaires dans leur interprétation des lois.
+
+# Cours 2  La création des lois et l'organisation des tribunaux
+
+## La création des lois
+
+La création des lois repose sur une **analyse des besoins** présumés ou perçus de la population. Ces besoins varie selon le pays, continant, etc. La création peut aussi découler de **demandes** de la population (régime médicament, assurance maladie, etc.).
+
+Pour voir les différents projets de loi en cours et à quelle étape ils sont rendus, on peut visiter le site de l'Assamblée-Nationale du Québec, section Travaux parlementaires et Projets de loi. 
+
+Les 3 pouvoirs de l'État sont :
+
+1) Le pouvoir *législatif*;
+    + Étudie, discute, amende et vote les lois. (arlement du Québec ou chambre des communes au Canada)
+    + Exerce un contrôle sur l'action du gouvernement.
+    + Acte du parlement au fédéral
+    + Acte de la législature au Québec.
+2) Le pouvoir *exécutif*;
+    + L'exécutif détermine les politiques devant guider les actions de l'État
+    + Il administre l'État en conformité avec les lois votées par le législatif
+    + Rôle accompli par le gouvernement au pouvoir
+    + Premier ministre et ministres = **Conseil exécutif**
+    + Applique les lois par règlements, décrets, arrêtés, ordonnances, circulaires, ... (*Publié dans la partie 2 de la Gazette!*)
+3) Le pouvoir *judiciaire*.
+    + Institutions tant fédérales que provinciales
+    + Le pouvoir judiciaire est inspiré du système britannique
+    + Rôle de **contrôler l'application de la loi** et de **sanctionner son non-respect** (Sanctions pénales, amandes, etc.).
+
+
+Ici, on voit qu'on a une notion de séparation de pouvoir pour éviter les conflits!
+
+### Pour un projet de loi ***public***
+
+\underline{Processus avant la présentation au parlement :}
+
++ Initiative gouvernementale;
++ Consultation du milieu (spécialistes, ceux affectés par la loi);
++ Document d'orientation du projet de loi;
++ Rédaction du projet de loi par un juriste;
++ **Approbation** du projet par le **ministre responsable**;
++ Comité de législation et divers comités ministériels consultés et qui ont leur mot à dire;
++ Approbation par le Conseil des ministres
+
+\underline{Présentation au parlement :}
+
++ Présentation du projet de loi ou avant-projet de loi;
++ Consultation générale (facultatif);
++ Adoption du principe;
++ Étude détaillée en commission parlementaire;
++ Dépôt du rapport de la commission;
++ Débat en chambre;
++ Adoption du projet de loi;
++ Sanction royale par le lientenant-gouverneur;
++ Publication. (Voilà, c'est une loi maintenant!)
+
+
+### Pour un projet de loi ***privé***
+
++ Souvent pour une corporation municipale (université)ou des institutions financières
++ Obtenir des droits et privilèges particuliers pour des motifs sérieux
++ Modification de chartes municipales;
++ Modification de la charte d'une personne morale
++ Élaboration du projet de loi par un conseiller juridique
+
+\underline{Processus avant la présentation au parlement :}
+
++ Choix du député pour défendre le projet de loi et remettre celui-ci;
++ Avis publié dans les journeaux et la Gazette officielle du Québec;
++ Présentation du projet de loi ou avant-projet de loi;
++ Adoption du principe.
+
+\underline{Présentation au parlement :}
+
++ Comission parlementaire;
++ Dépôt du rapport de la commission;
++ Débat en chambre;
++ Adoption du projet de loi;
++ Sanction par le lieutenant-gouverneur (dans le cas d'une loi adopté par une province);
++ Publication.
+
+## Le parlement du Québec
+
+Le Parlement du Québec est l’organisme qui détient le pouvoir législatif dans la province de Québec. Le corps législatif québécois comprend l’***Assemblée nationale*** ainsi qu’un ***lieutenant-gouverneur***
+

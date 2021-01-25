@@ -1,0 +1,39 @@
+---
+title: "Glossaire - Législation"
+author: "Nicolas Gagnon"
+date: "19/01/2021"
+output:
+  bookdown::pdf_document2:
+    template: two-col.latex
+    latex_engine: xelatex
+    number_sections: FALSE
+    toc: False
+geometry: a4paper, headheight=0pt, margin=0.5in
+---
+
+Droit
+: ensemble de règles de conduite que les membres d'une société donnée se doivent de suivre et de respecter.
+
+Système de droit mixte
+: Lorsqu'il existe deux cultures juridiques au sein d'une même société.
+
+Traité de Paris
+: Acte signé en 1763 suite à la capitulation de la Nouvelle-France lors de la Guerre de sept ans. Celui-ci viens confirmer la conquête de la Nouvelle-France par l'angleterre
+
+Serment du Test
+: **Serment** que devaient faire tous les fonctionnaires et officiers anglais et qui avait pour but d'exclure les catholiques de toutes les charges administratives.
+
+Loi
+: Règle adoptée par la Chambre des communes (fédéral) ou l'Assamblée nationale (Québec). Délimite les droit et les obligations de sindividus, groupements ou établissements, dans l'un ou l'autre des secteurs de l'activité humaine et que l'on peut appliquer en ayant recours à la justice.
+
+Jurisprudence
+: Façon dont les lois sont interprétées par les tribunaux. Correspond à l'ensemble des jugements rendus par les tribunaux supérieurs, dont les juges s'inspirent pour rendre leur décision dans les affaires qui leur sont soumises.
+
+Doctrine du précédent
+: Obligation de vérifier les décisions rendues par le passé avant de rendre jugement.
+
+Doctrine
+: Ouvrage et traités sur le droit qui présentent les principes et théories élaborés par des juristes qui visent à expliquer le droit. Elle sert de guide aux praticiens du droit et aux gens d'Affaires dans leur interprétation des lois.
+
+Parlement du Québec
+: Organisme qui détient le pouvoir législatif dans la province de Québec. Le corps législatif québécois comprend l'***Assemblée nationale*** ainsi qu'un ***lieutenant-gouverneur***.
