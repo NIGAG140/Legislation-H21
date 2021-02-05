@@ -543,4 +543,143 @@ Inscription de la cause auprès du maître des rôles. L’inscription signe le 
 
 Dans les 30 jours du jugement, sinon, **exécution du jugement**.
 
+# Cours 3 - Législation, justice administrative et jugements
+
+## Mise en oeuvre et interprétation des lois
+
+Prenons comme exemple le Régime de rentes du Québec avec l'ajout du **régime supplémentaire.**
+
+Le RRQ offre une protection de base aux travailleurs âgés de 18 ans ou plus. Il vise à remplacer 25% des gains moyens de carrière. Les rentes sont **indexées** annuellement en fonctione de l'indice des prix et **imposables**.
+
+### Introduction du régime supplémentaire au Régime de rentes du Québec
+
+De base, l'article 218.1 de la loi sur le RRQ oblige une consultation publique à tous les 6 ans. Durant cette période de 6 ans, il y a certains travaux préparatoires :
+
++ Veille sur les régimes de sécurité sociale (RPC, OCDE, ...);
++ Effet du vieillissement de la population sur le système de retrait;
++ Situation financière du RRQ.
+
+Par la suite, certaines **propositions** seront élaborées en collaboration avec les professionnels responsables du développement du RRQ. Il y aura par la suite une évaluation des effets de ces dites propositions sur la situation financière du RRQ.
+
+Il y a ensuite la rédaction d'un document de consultation (présente les différentes mesures en vue de la consultation, ici la bonification du RRQ avec la proposition de 3 scénarios) ainsi qu'un document de soutien (qui contient certains constats sur l'environnement sociaoéconomique, démographique, le système de sécurité financière à la retraite, etc.)
+
+Voici les 3 scénarios proposés dans le document de consultation :
+
+![](supp.png)
+
+Le document de consultation proposait aussi des **mesures pour adapter le RRQ à son environnement socioéconomique et démographique** (âge minimal admissible, montant maximal de rente combinée), ainsi que des **mesures pour assurer un taux de cotisation du RRQ stable et durable** (facteur de longévité, indexation).
+
+Une fois le document de consultation rendu publique, on peut soit faire une consultation publique **générale** oup ublique **particulière** (voire glossaire pour différentiation). La consultation sur le RRQ de 2017 à été une consultation **particulière**.
+
+À la suite de l'analyse par le ministre des finances, il a ordoné à Retraite Québec de rédiger un projet de loi. Cela à donné naissance au **Projet de loi no 149** adopté le 21 février 2018 par l'Assemblée nationale, Sanctionné le 22 février 2018 par le Lieutenant-gouverneur et entré en vigueur le 22 février 2018 :
+
++ Bonification du RRQ selon le scénario **RPC**
++ Introduction d'un mécanisme d'ajustement des cotisationes et prestations du régime supplémentaire
++ Introduction d'une obligation de financer les améliorations au RRQ par une hausse du taux de cotisation
++ Mise en place de deux politiques de placement pour le RRQ (base et supplémentaire)
+
+### Réglementation
+
+La réglementation accompagne une loi. La **disposition habilitante** précise l'étendue du pouvoir réglementaire, qui possède le pouvoir réglementaire et comment ce pouveoir peut être exercé. C'est principalement le **Conseil des ministres** qui exerce le pouvoir réglementaire, mais d'autres ministres et organismes peuvent aussi l'exercer. Un *règlement* peut porter différent noms :
+
++ Décret;
++ Arrêté en conseil ou arrêté ministériel;
++ C.T. (arrêté du conseil du trésor);
++ Ordonnance (décision d'un organisme, d'une régie, ...);
++ Règles (règles de pratique des régies et commissions).
+
+Exemple de disposition habilitante simple et étendue, **sur la même loi** :
+
+![](disp_simp.png)
+
+![](disp_et.png)
+
+\underline{Processus réglementaire :}
+
++ Publication du projet de règlement (dans la gazette officielle du Qc, partie 2);
++ Adoption du règlement (se fait au moyen d'un décret auqeul est annexé le texte du réglement); 
++ Publication du règlement;
++ Entrée en vigeur. (voir dernier article du règlement pour la date, ou sinon :)
+
+![](loi-regl.png)
+
+### Documents administratifs ou normatifs
+
+Sert à encadré les règlements au sein de l'organisme afin d'assurer son bon fonctionnement et sa bonne gestion. Voici certaines caractéristiqes des documents :
+
++ N'ont aucune force de loi, à moins d'une habilitation législative;
++ Complètent la loi et les règlements;
++ Lient l'autorité administrative, l'organisme ou l'entreprise que l'adopte;
++ Peuvent être publiés sur le site Internet.
+
+Types de documents :
+
++ Politique;
++ Directive;
++ Cahier de normes;
++ Pratique opérationnelle.
+
+### Délégations de pouvoirs
+
+Une entité peut décider de déléguer certains pouvoirs a quelqu'un.
+
+### Cadre normatif à connaître
+
+\underline{Lois}
+
++ Lois constitutionnelles;
++ Lois d'ordre public;
++ Loi constitutive d'un organisme;
++ Lois fiscales;
++ Code civil du Québec
+
+\underline{Règlements}
+
+\underline{Documents administratifs ou normatifs}
+
+### Interprétation des lois
+
+Méthodes d'interprétation :
+
++ Méthode littérale ou grammaticale;
++ Méthode systématique;
++ Méthode historique;
++ Méthode tléologique;
++ Méthode contextuelle;
++ Méthode pragmatique.
+
+## Jurisprudence et jugements
+
+Sert à interpréter les textes législatifs et réglementaires et est une source de droit, lorsque la loi est silencieuse.
+
+### Distinction terminologiques - jurisprudence
+
++ **Cause** : affaire portée devant un tribunal; le tribunal rend une décision dans une cause
++ **Jugement** : décision rendue par un tribnal de 1ère instance;
++ **Appel** : recours à une juridiction de niveau supérieur pour contester un décision rendure par un tribunal de 1ère instance
++ **Pourvoi** : appel devant la Cour suprême du Canada, et à l'occasion, devant la Cour d'appel du Québec
++ **Arrêt** : décision rendue par une cour d'appel ou la Cour suprême du Canada; terme réservé aux décisions des juridictions supérieures rendues par un banc de juges
+
+### Forme et contenu d'un jugement
+
++ Écrit
++ Motivé
++ Daté et signé par cleui qui l'a rendu
++ Contient les motifs
++ Contient les dispositifs (conclusions)
+
+Un jugement sert à mettre fin à la demande, au litige, et désaisie le juge (le juge peut pu revenir sur sa décision).
+
+## Analyse de cas Affaire B.V.
+
+
+
+
+
+
+
+
+
+
+
 

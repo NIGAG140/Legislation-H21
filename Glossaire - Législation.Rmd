@@ -56,6 +56,11 @@ Le poursuivant et l'accusé
 Jury
 : Citoyens sélectionnés au hasard à partir de la liste électorale, nommés *jurés*.
 
+Consultation particulière
+: Procédure en vertu de laquelle une commission sollicite l'opinion de personnes ou d'organismes qui ont une connaissance ou une expérience particulière du domaine qu'elle examine.
+
+Consultation générale
+: Procédure en vertu de laquelle une commission invite les personnes ou les organismes intéressés à exprimer leurs opinions sur le sujet qu'elle étudie.
 
 
 Légiférer (Assamblée-Nationale)
@@ -63,3 +68,6 @@ Légiférer (Assamblée-Nationale)
 
 Infractions militaires
 : Désigne les infractions quiconcernent les inconduites disciplinaires plus graves, et toutes les inconduites criminelles du personnel militaire.
+
+Disposition habilitante
+: Si qqun trouve c'est quoi, merci dme ldire. Je sais juste que c'est un document qui explique les réglements et qui peut les appliquer.
