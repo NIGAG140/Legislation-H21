@@ -655,8 +655,8 @@ Sert à interpréter les textes législatifs et réglementaires et est une sourc
 ### Distinction terminologiques - jurisprudence
 
 + **Cause** : affaire portée devant un tribunal; le tribunal rend une décision dans une cause
-+ **Jugement** : décision rendue par un tribnal de 1ère instance;
-+ **Appel** : recours à une juridiction de niveau supérieur pour contester un décision rendure par un tribunal de 1ère instance
++ **Jugement** : décision rendue par un tribunal de 1ère instance;
++ **Appel** : recours à une juridiction de niveau supérieur pour contester un décision rendue par un tribunal de 1ère instance
 + **Pourvoi** : appel devant la Cour suprême du Canada, et à l'occasion, devant la Cour d'appel du Québec
 + **Arrêt** : décision rendue par une cour d'appel ou la Cour suprême du Canada; terme réservé aux décisions des juridictions supérieures rendues par un banc de juges
 
@@ -664,7 +664,7 @@ Sert à interpréter les textes législatifs et réglementaires et est une sourc
 
 + Écrit
 + Motivé
-+ Daté et signé par cleui qui l'a rendu
++ Daté et signé par celui qui l'a rendu
 + Contient les motifs
 + Contient les dispositifs (conclusions)
 
@@ -673,6 +673,149 @@ Un jugement sert à mettre fin à la demande, au litige, et désaisie le juge (l
 ## Analyse de cas Affaire B.V.
 
 Voir notes de cours écrites et vidéos 5@7 sur site de cours (en x1.7 ça s'écoute quand même bien lol).
+
+# Cours 4 - Loi sur l'assurance médicament
+
+Un rapport est fait annuellement pour réviser le fonctionnement du régime d'assurance médicament.
+
+## Historique
+
+Projet de loi sanctionné en juin 1996. À l'hôpital, les médicaments étaient déjà couvert avec l'assurance maladie depuis 1967, mais pas ailleurs. En 1972, les prestataires de sécurité financière avaient droit à la gratuité de médicaments. 1974-75, 60-64 ans avec allocation de conjoint, 65 ans avec SRG, etc. Selon âge, type de maladie, situation financière, y'a différent traitements qui s'instaurent au fil des années.
+
+On remarque que **15% de la population** sont *non assurés* et que **70% sont pauvres**. Il y a aussi une **hausse du coût des médicaments** à partir des années 1990, et même jusqu'à aujourd'hui. On remarque aussi qu'on peut **prévenir des maladies** à l'aide des médicaments, ce qui permet à l'état d'économiser sur les hospitalisations en bout de ligne.
+
+Circulaire "Malades sur pieds" : permettait aux patient qui sortaient des hôpitaux de continuer de recevoir des médicaments payés par l'état.
+
+## Contexte politique
+
+1993 : Annonce de la **possibilité d'abolir la circulaire** "Malades sur pieds". Dr Demers est mandaté de **revoir la politique définie dans la circulaire** et de **proposer des solutions d'ensemble**.
+
+1994 : Demers propose "De l'assistance à l'assurance". Propose un **régime de base universel** d'assurance médicament (à l'encontre d'une abolition de la circulaire!). Rapport pas trop bien reçu, donc changement de ministre (pauvre Dr Demers). Nouvelle ministre, Lucienne Robillard, vient **analyser la faisabilité d'un régime universel**.
+
+Durant ce temps, les élections font rage et le PQ parle de l'instauration du régime universel dans leur promesse électorale.
+
+1995 : Rapport Gagnon, parle de la faisabilité du régime. M. Castonguay doit maintenant examiner les différentes options **menant à une couverture** \underline{\textbf{équitable}} du régime. Le gouvernement **annonce qu'il va de l'avant!**
+
+Rapport Castonguay : on parle de participation financière (prime, franchise, coassurance, plafond). Propose 3 types de régimes et laisse le pouvoir décider lequel appliquer. Présente 2 modes d'Administration aussi (M1 et M2).
+
+Finalement, la loi adoptée est bien différente de tous ces choix la (LOL)!
+
+## Contexte législatif
+
+15 mai 1996 : Dépôt du projet de loi 33
+
+12 juin 1996 : Principe adopté
+
+13 au 18 juin : Étude détaillée
+
+18 juin : Dépôt d'un rapport non terminé
+
+19 juin : Vote et projet de loi adopté à 4h du matin (48 pour, 20 contre)
+
+20 juin : Sanction par le Lieutenant-gouverneur
+
+Donc on comprend que la loi à été adoptée très rapidement, dans un sentiment d'urgence (on a promis un système, la faut vite recevoir de l'argent pour le faire fonctionner!!), et que certaines **grandes sections** de la loi ont été adoptées **sans avoir été discutées** par l'Assemblée nationale. Des **amendements** devront donc y être apportées. 
+
+Au niveau de la perception et de la mise en place chez les pharmaciens, on est en phase de transition et d'administration. Mise en place d'une infrastructure administrative pour la communication entre l'état et les pharmacies. Les *pharmaciens* subissent donc des coûts importants dûs à cette réforme, notamment en achat d'équipement. Pour les *assureurs*, ils doivent maintenant modifier leurs contrats d'assurance (franchise, coassurance, etc.).
+
+La réglementation est pas prête avant le **15 décembre 1996**. Prévoit une révision au plus tard en 2000
+
+**Décembre 1999 :** Dépôt du rapport du MSSS : "Évaluation du régime général d'assurance médicament".
+
+On remarque que le régime fonctionne plus ou moins biens, et plusieurs parties proposent des solutions. Formation d'un comtié d'expert présidé par M. Claude Montmarquette pour réviser le tout. Recommandations :
+
+1. Maintien d'un caractère **mixte**;
+1. Maintien du caractère **obligatoire**;
+1. Maintien du concept de **participation**;
+1. Création de **3 mécanismes** pour un meilleur **contrôle de l'utilisation** des médicaments ;
+    + Fonds financés par l'industrie pharmaceutique;
+    + Conférence de concensus sur l'utilisation recommandée;
+    + Programme de gestion préventive de la maladie;
+
+**Décembre 2004:** Consultations publiques et dépôts de mémoires. Dépôt de loi 130 pour modification de la loi. 4 axes principaux :
+
++ Accessibilité aux médicaments;
++ Établissement d'un prix juste et raisonnable pour les médicaments;
++ Usage optimal des médicaments;
++ Maintien d'une industrie bio pharmaceutique dynamique au Québec.
+
+## Rapport 2021 
+
+\underline{Couerture :}
+
++ Régime général : 3,7 M (45 %)
+    + adhérents (50 %)
+    + prestataires d'aide (10 %)
+    + âgés 65+ (40 %)
++ Régime privé : 4.6 M (55 %)
+
+\underline{Financement du régime général :}
+
++ Financement *privé* pour régime *privé*. Financement **mixte** pour *régime général*
++ Certains ne **paient rien** au régime général
++ Régime général financé en partie par **l'impôt**
+
+\underline{Coût du régime :}
+
++ Augmentation de **5,9%** entre 2019 et 2020. ***Augmente plus vite que l'inflation***
++ Environ 20 % des coûts payés par la franchise et la coassurance des assurés
++ Le reste (80 %) payé par le régime (environ le 1/3 provient des primes, le reste c'est les fonds consolidés)
+
+## Lecture de la loi (woot woot)
+
+### Partie 1 : Comment aborder le texte de la loi sur l'assurance médicament
+
+Ça peut aider de voir des publications de vulgarisation pour aider à comprendre.
+
+Pour une première lecture, on conseille de d'abord **répertorier les grandes sections** pour avoir une vue d'ensemble. Vérifier s'il existe :
+
++ Un index
++ un version commentée
++ des guides d'interprétation
++ des résumés (préparés par le gouvernement, des conseillers, des assureurs)
+
+**Vérifier** à la fin du texte s'il y a :
+
++ des amendements
++ des règlements
++ des annexes
++ tout autre document
+
+### Partie 2 : Renseignements généraux sur la loi sur l'assurance médicament
+
+Plusieurs amendements depuis 1996 :
+
++ 1997 : franchise appliquée mensuellement
++ 1999 : ajout de sage-femme pour ordonnance
++ 2000 : indexation de la prime
++ 2001 : admissibilité
++ 2002-2003 : indexation de la prime, contribution, coassurance, instauration des **ajustements annuel**
++ 2005 : politique du médicament, table de concertation
++ 2007 : gratuité à un plus grand nombre
++ 2012 : application du **prix le plus bas** par décret
++ 2016 : contrôle du **l'approvisionnement** et des **prix** des médicaments
++ 2020 : ajustement des montants pour 6 mois
+
+Le premier article de loi : donne le ton de la loi
+
+Le dernier article : annonce les dates de mise en vigueur
+
+### Parte 3 : Analyse détaillée d'articles de la loi sur l'assurance médicament
+
+Qui est responsable? Ministre de la Santé et des Services Sociaux (article 87)
+
+Quand entre-t-elle en vigueur? Difficile à répondre, entre juin 2016 et janvier 2017. Encore plusieurs nouveaux décrets et règles à ce jour
+
+Importance article 11, 12, 13, 17(enfants), 
+ 
+
+
+
+
+
+
+
+
 
 
 

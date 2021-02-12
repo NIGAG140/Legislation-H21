@@ -75,3 +75,7 @@ Disposition habilitante
 Occupation véritablement rémunératrice
 : Occupation qui procure un revenu d'au moins 12 fois le maximum mensuel de la rente d'invalidité. En 2021, on parle de 16 997 $.
 
+Dispositions transitoires (loi)
+: Ajustements temporaires modifiant la portée de la loi, souvant appliqué lors de période de transition et visant les premières années d'une loi.
+
+
